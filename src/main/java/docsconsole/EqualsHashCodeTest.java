@@ -16,8 +16,7 @@ public class EqualsHashCodeTest {
         set.add(employee1);
         set.add(employee2);
         System.out.println("size: " + set.size());
-
-
-    }
-
+		
+ 
+   }
 }
